@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bassamfouad/Slack-clone-PAPA_React.git/static/css/main.b57ed815.chunk.css",
+    "main.js": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/main.21c8cf4b.chunk.js",
+    "main.js.map": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/main.21c8cf4b.chunk.js.map",
+    "runtime-main.js": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/runtime-main.d19603cc.js",
+    "runtime-main.js.map": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/runtime-main.d19603cc.js.map",
+    "static/css/2.fbb149ea.chunk.css": "/bassamfouad/Slack-clone-PAPA_React.git/static/css/2.fbb149ea.chunk.css",
+    "static/js/2.34606b3a.chunk.js": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/2.34606b3a.chunk.js",
+    "static/js/2.34606b3a.chunk.js.map": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/2.34606b3a.chunk.js.map",
+    "index.html": "/bassamfouad/Slack-clone-PAPA_React.git/index.html",
+    "static/css/2.fbb149ea.chunk.css.map": "/bassamfouad/Slack-clone-PAPA_React.git/static/css/2.fbb149ea.chunk.css.map",
+    "static/css/main.b57ed815.chunk.css.map": "/bassamfouad/Slack-clone-PAPA_React.git/static/css/main.b57ed815.chunk.css.map",
+    "static/js/2.34606b3a.chunk.js.LICENSE.txt": "/bassamfouad/Slack-clone-PAPA_React.git/static/js/2.34606b3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19603cc.js",
+    "static/css/2.fbb149ea.chunk.css",
+    "static/js/2.34606b3a.chunk.js",
+    "static/css/main.b57ed815.chunk.css",
+    "static/js/main.21c8cf4b.chunk.js"
+  ]
+}
